@@ -4759,7 +4759,7 @@
       "Name": "Gurley2008_Control",
       "Model": "4Comp",
       "ObservedData": [
-        "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)"
+        "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -4843,7 +4843,7 @@
         {
           "Scaling": "Log",
           "Path": "Gurley2008_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)"
+          "ObservedData": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)"
         }
       ],
       "Individual": "European (P-gp modified, CYP3A4 36 h)",
@@ -4952,9 +4952,9 @@
               }
             },
             {
-              "Name": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|Time",
-              "Y": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "Name": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|Time",
+              "Y": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -5422,7 +5422,7 @@
       "Name": "Gurley2006_Control",
       "Model": "4Comp",
       "ObservedData": [
-        "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)"
+        "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -5506,7 +5506,7 @@
         {
           "Scaling": "Log",
           "Path": "Gurley2006_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)"
+          "ObservedData": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)"
         }
       ],
       "Individual": "European (P-gp modified, CYP3A4 36 h)",
@@ -5615,9 +5615,9 @@
               }
             },
             {
-              "Name": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|Time",
-              "Y": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "Name": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|Time",
+              "Y": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -6085,7 +6085,7 @@
       "Name": "Gurley2007_Control",
       "Model": "4Comp",
       "ObservedData": [
-        "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)"
+        "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -6169,7 +6169,7 @@
         {
           "Scaling": "Log",
           "Path": "Gurley2007_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)"
+          "ObservedData": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)"
         }
       ],
       "Individual": "European (P-gp modified, CYP3A4 36 h)",
@@ -6278,9 +6278,9 @@
               }
             },
             {
-              "Name": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|Time",
-              "Y": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "Name": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|Time",
+              "Y": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -8513,7 +8513,7 @@
       }
     },
     {
-      "Name": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)",
+      "Name": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -8595,7 +8595,7 @@
             {
               "Name": "Var",
               "QuantityInfo": {
-                "Path": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+                "Path": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -8619,7 +8619,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+            "Path": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -8646,7 +8646,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|Time",
+          "Path": "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -10780,7 +10780,7 @@
       }
     },
     {
-      "Name": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)",
+      "Name": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -10862,7 +10862,7 @@
             {
               "Name": "Var",
               "QuantityInfo": {
-                "Path": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+                "Path": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -10887,7 +10887,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+            "Path": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -10915,7 +10915,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|Time",
+          "Path": "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -10940,7 +10940,7 @@
       }
     },
     {
-      "Name": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)",
+      "Name": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -11022,7 +11022,7 @@
             {
               "Name": "Var",
               "QuantityInfo": {
-                "Path": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+                "Path": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -11046,7 +11046,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+            "Path": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -11073,7 +11073,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|Time",
+          "Path": "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -12505,7 +12505,7 @@
     {
       "Name": "Gurley 2008b",
       "Classifiables": [
-        "Gurley 2008b - Control (Perpetrator Placebo) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)",
+        "Gurley 2008b - Control to Perpetrator Clarithromycin - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)",
         "Gurley 2008b - with Perpetrator (Clarithomycin) - Digoxin - PO - 0.25 mg - Serum - agg. (n=18)"
       ]
     },
@@ -12568,14 +12568,14 @@
     {
       "Name": "Gurley 2006",
       "Classifiables": [
-        "Gurley 2006 - day 1 plasma - Digoxin - PO - 0.4 mg - serum - agg. (n=16)",
+        "Gurley 2006 - day 1 plasma before Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)",
         "Gurley 2006 - day 7 plasma + Clarithromycin - Digoxin - PO - 0.4 mg - serum - agg. (n=16)"
       ]
     },
     {
       "Name": "Gurley 2007",
       "Classifiables": [
-        "Gurley 2007 - control - Digoxin - PO - 0.5 mg - serum - agg. (n=20)",
+        "Gurley 2007 - control to Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)",
         "Gurley 2007 - Digoxin + Clarithromycin - Digoxin - PO - 0.5 mg - serum - agg. (n=20)"
       ]
     },
